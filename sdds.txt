@@ -33,4 +33,8 @@ public class main {
 	}
 		return str;
 	}
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 4c88e463d0f8b141a5123881a645f898a22b845b
