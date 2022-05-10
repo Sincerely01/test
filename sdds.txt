@@ -1,17 +1,1 @@
 package RECAP1;
-
-import java.util.Scanner;
-
-public class main {
-
-	public static void main(String[] args) {
-		
-		Scanner scan = new Scanner(System.in);
-		
-		String Poli = scan.next();
-		
-		Poli = isPalindrom(Poli);
-			System.out.println(Poli);
-		}
-		xxxxxxx
-hasuidhbaucoasd
