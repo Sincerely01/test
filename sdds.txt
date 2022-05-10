@@ -13,24 +13,4 @@ public class main {
 		Poli = isPalindrom(Poli);
 			System.out.println(Poli);
 		}
-		
-
-		
-
-	
-	public static String isPalindrom(String Poli) {
-		String str= "";
-		for (int j = 0 , i = Poli.length(); i >= 0; i++, i--) {
-			if (Poli.charAt(i) != Poli.charAt(j)) {
-				str = "Kein Poli";
-				
-			}
-			else if (Poli.charAt(i) == Poli.charAt(j)) {
-				str = Poli;
-				
-			
-			}
-	}
-		return str;
-	}
-}
+		xxxxxxx
